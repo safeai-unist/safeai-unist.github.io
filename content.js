@@ -127,31 +127,31 @@ window.LAB_DATA = {
   "projects": [
     {
       "title": "Establishment of a KUNIST Full-Cycle Convergence Platform to Cultivate K-PRISM Physician-Scientists and Medical Scientists Equipped with 5C Core Competencies",
-      "description": "KHIDI · Principal Investigator",
-      "period": "",
+      "description": "KHIDI · Co-Investigator",
+      "period": "2026.04.01 - 2030.12.31",
       "status": "Ongoing"
     },
     {
       "title": "Development of technology for an intelligent AI data processing and learning platform specialized for industrial domains",
       "description": "IITP · Principal Investigator",
-      "period": "",
+      "period": "2026.04.01 - 2030.12.31",
       "status": "Ongoing"
     },
     {
       "title": "AI Star Fellowship Support Program",
-      "description": "IITP · Principal Investigator",
-      "period": "",
+      "description": "IITP · Co-Investigator (Project1 - Leader)",
+      "period": "2026.07.01 - 2031.12.31",
       "status": "Ongoing"
     },
     {
       "title": "D2 (Disinformation & Deepfake) Research Center",
-      "description": "ITRC · Co-Principal Investigator",
+      "description": "ITRC · Co-Investigator",
       "period": "2024.07.01 – 2031.12.31",
       "status": "Ongoing"
     },
     {
       "title": "User-friendly and efficiency-optimized real-time homomorphic statistical analysis processing platform",
-      "description": "Co-Principal Investigator",
+      "description": "Co-Investigator",
       "period": "2024.04.01 – 2026.12.31",
       "status": "Ongoing"
     },
@@ -170,7 +170,7 @@ window.LAB_DATA = {
     },
     {
       "title": "Development of technology for detailing (super-resolution) images and outputs of Cheonryang Satellite",
-      "description": "Korea Meteorological Administration · Co-Principal Investigator",
+      "description": "Korea Meteorological Administration · Co-Investigator",
       "period": "2024.04.01 – 2024.11.30",
       "status": "Completed"
     },
