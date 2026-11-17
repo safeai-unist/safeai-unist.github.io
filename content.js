@@ -700,6 +700,23 @@ window.LAB_DATA = {
     }
   ],
   "memories": [
+
+    {
+      "title": "CIKM 2026",
+      "date": "Fall 2026 · Rome, Italy",
+      "description": "Memories from the ACM International Conference on Information and Knowledge Management in Rome.",
+     "photos": [
+        "assets/memory-0-0.jpg",
+        "assets/memory-0-1.jpg",
+        "assets/memory-0-2.jpg",
+        "assets/memory-0-3.jpg",
+        "assets/memory-0-4.jpg",
+        "assets/memory-0-5.jpg",
+       "assets/memory-0-6.jpg",
+       "assets/memory-0-7.jpg"
+     ]
+    },
+
     {
       "title": "ICML 2026",
       "date": "Summer 2026 · Seoul, South Korea",
