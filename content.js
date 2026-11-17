@@ -705,13 +705,13 @@ window.LAB_DATA = {
       "date": "Summer 2026 · Seoul, South Korea",
       "description": "At the International Conference on Machine Learning in Seoul.",
       "photos": [
-        "assets/memory-0-0.jpg",
-        "assets/memory-0-1.jpg",
-        "assets/memory-0-2.jpg",
-        "assets/memory-0-3.jpg",
-        "assets/memory-0-4.jpg",
-        "assets/memory-0-5.jpg",
-        "assets/memory-0-6.jpg"
+        "assets/memory-1-0.jpg",
+        "assets/memory-1-1.jpg",
+        "assets/memory-1-2.jpg",
+        "assets/memory-1-3.jpg",
+        "assets/memory-1-4.jpg",
+        "assets/memory-1-5.jpg",
+        "assets/memory-1-6.jpg"
       ]
     },
     {
@@ -719,9 +719,9 @@ window.LAB_DATA = {
       "date": "Spring 2026 · Gyeongju, South Korea",
       "description": "Moments from the Korean Institute of Industrial Engineers conference.",
       "photos": [
-        "assets/memory-1-0.jpg",
-        "assets/memory-1-1.jpg",
-        "assets/memory-1-2.jpg"
+        "assets/memory-2-0.jpg",
+        "assets/memory-2-1.jpg",
+        "assets/memory-2-2.jpg"
       ]
     },
     {
@@ -729,12 +729,12 @@ window.LAB_DATA = {
       "date": "Fall 2025 · Munich, Germany",
       "description": "Conference memories from Munich.",
       "photos": [
-        "assets/memory-2-0.jpg",
-        "assets/memory-2-1.jpg",
-        "assets/memory-2-2.jpg",
-        "assets/memory-2-3.jpg",
-        "assets/memory-2-4.jpg",
-        "assets/memory-2-5.jpg"
+        "assets/memory-3-0.jpg",
+        "assets/memory-3-1.jpg",
+        "assets/memory-3-2.jpg",
+        "assets/memory-3-3.jpg",
+        "assets/memory-3-4.jpg",
+        "assets/memory-3-5.jpg"
       ]
     },
     {
@@ -742,13 +742,13 @@ window.LAB_DATA = {
       "date": "Fall 2025 · Dublin, Ireland",
       "description": "Research and conversations at ACM Multimedia.",
       "photos": [
-        "assets/memory-3-0.jpg",
-        "assets/memory-3-1.jpg",
-        "assets/memory-3-2.jpg",
-        "assets/memory-3-3.jpg",
-        "assets/memory-3-4.jpg",
-        "assets/memory-3-5.jpg",
-        "assets/memory-3-6.jpg"
+        "assets/memory-4-0.jpg",
+        "assets/memory-4-1.jpg",
+        "assets/memory-4-2.jpg",
+        "assets/memory-4-3.jpg",
+        "assets/memory-4-4.jpg",
+        "assets/memory-4-5.jpg",
+        "assets/memory-4-6.jpg"
       ]
     },
     {
@@ -756,12 +756,12 @@ window.LAB_DATA = {
       "date": "Summer 2025 · Jeju, South Korea",
       "description": "The lab at the Korean Institute of Industrial Engineers conference in Jeju.",
       "photos": [
-        "assets/memory-4-0.jpg",
-        "assets/memory-4-1.jpg",
-        "assets/memory-4-2.jpg",
-        "assets/memory-4-3.jpg",
-        "assets/memory-4-4.jpg",
-        "assets/memory-4-5.jpg"
+        "assets/memory-5-0.jpg",
+        "assets/memory-5-1.jpg",
+        "assets/memory-5-2.jpg",
+        "assets/memory-5-3.jpg",
+        "assets/memory-5-4.jpg",
+        "assets/memory-5-5.jpg"
       ]
     },
     {
@@ -769,10 +769,10 @@ window.LAB_DATA = {
       "date": "Fall 2024 · Gyeongju, South Korea",
       "description": "Presentations and shared moments at the Korean Data Mining Society conference.",
       "photos": [
-        "assets/memory-5-0.jpg",
-        "assets/memory-5-1.jpg",
-        "assets/memory-5-2.jpg",
-        "assets/memory-5-3.jpg"
+        "assets/memory-6-0.jpg",
+        "assets/memory-6-1.jpg",
+        "assets/memory-6-2.jpg",
+        "assets/memory-6-3.jpg"
       ]
     },
     {
@@ -780,11 +780,11 @@ window.LAB_DATA = {
       "date": "2024 · Lab life",
       "description": "Celebrating birthdays together.",
       "photos": [
-        "assets/memory-6-0.jpg",
-        "assets/memory-6-1.jpg",
-        "assets/memory-6-2.jpg",
-        "assets/memory-6-3.jpg",
-        "assets/memory-6-4.jpg"
+        "assets/memory-7-0.jpg",
+        "assets/memory-7-1.jpg",
+        "assets/memory-7-2.jpg",
+        "assets/memory-7-3.jpg",
+        "assets/memory-7-4.jpg"
       ]
     },
     {
@@ -792,8 +792,8 @@ window.LAB_DATA = {
       "date": "Spring 2024 · Lab life",
       "description": "A moment of appreciation on Teachers’ Day.",
       "photos": [
-        "assets/memory-7-0.jpg",
-        "assets/memory-7-1.jpg"
+        "assets/memory-8-0.jpg",
+        "assets/memory-8-1.jpg"
       ]
     },
     {
@@ -801,12 +801,12 @@ window.LAB_DATA = {
       "date": "Spring 2024 · Toronto, Canada",
       "description": "Memories from IEEE SaTML in Toronto.",
       "photos": [
-        "assets/memory-8-0.jpg",
-        "assets/memory-8-1.jpg",
-        "assets/memory-8-2.jpg",
-        "assets/memory-8-3.jpg",
-        "assets/memory-8-4.jpg",
-        "assets/memory-8-5.jpg"
+        "assets/memory-9-0.jpg",
+        "assets/memory-9-1.jpg",
+        "assets/memory-9-2.jpg",
+        "assets/memory-9-3.jpg",
+        "assets/memory-9-4.jpg",
+        "assets/memory-9-5.jpg"
       ]
     },
     {
@@ -814,9 +814,9 @@ window.LAB_DATA = {
       "date": "Spring 2024 · Lab life",
       "description": "Enjoying cherry blossom season together.",
       "photos": [
-        "assets/memory-9-0.jpg",
-        "assets/memory-9-1.jpg",
-        "assets/memory-9-2.jpg"
+        "assets/memory-10-0.jpg",
+        "assets/memory-10-1.jpg",
+        "assets/memory-10-2.jpg"
       ]
     },
     {
@@ -824,8 +824,8 @@ window.LAB_DATA = {
       "date": "Winter 2024 · Lab life",
       "description": "Snapshots from a winter together.",
       "photos": [
-        "assets/memory-10-0.jpg",
-        "assets/memory-10-1.jpg"
+        "assets/memory-11-0.jpg",
+        "assets/memory-11-1.jpg"
       ]
     },
     {
@@ -833,9 +833,9 @@ window.LAB_DATA = {
       "date": "Winter 2024 · Lab life",
       "description": "Sharing dinner beyond the lab.",
       "photos": [
-        "assets/memory-11-0.jpg",
-        "assets/memory-11-1.jpg",
-        "assets/memory-11-2.jpg"
+        "assets/memory-12-0.jpg",
+        "assets/memory-12-1.jpg",
+        "assets/memory-12-2.jpg"
       ]
     },
     {
@@ -843,8 +843,8 @@ window.LAB_DATA = {
       "date": "Spring 2023 · Lab life",
       "description": "Celebrating Teachers’ Day together.",
       "photos": [
-        "assets/memory-12-0.jpg",
-        "assets/memory-12-1.jpg"
+        "assets/memory-13-0.jpg",
+        "assets/memory-13-1.jpg"
       ]
     }
   ]
