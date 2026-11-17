@@ -706,14 +706,14 @@ window.LAB_DATA = {
       "date": "Fall 2026 · Rome, Italy",
       "description": "Memories from the ACM International Conference on Information and Knowledge Management in Rome.",
      "photos": [
-        "assets/memory-0-0.jpg",
+        "assets/memory-0-0.jpeg",
         "assets/memory-0-1.jpg",
-        "assets/memory-0-2.jpg",
-        "assets/memory-0-3.jpg",
-        "assets/memory-0-4.jpg",
-        "assets/memory-0-5.jpg",
-       "assets/memory-0-6.jpg",
-       "assets/memory-0-7.jpg"
+        "assets/memory-0-2.jpeg",
+        "assets/memory-0-3.jpeg",
+        "assets/memory-0-4.jpeg",
+        "assets/memory-0-5.jpeg",
+       "assets/memory-0-6.jpeg",
+       "assets/memory-0-7.jpeg"
      ]
     },
 
